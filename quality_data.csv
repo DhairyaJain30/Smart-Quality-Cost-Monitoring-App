@@ -1,0 +1,19 @@
+Month,Category,Cost,Description
+Jan,Prevention,7000,added
+Jan,Prevention,12000,Training sessions
+Jan,Appraisal,8000,Inspection tools
+Jan,Internal Failure,15000,Rework and scrap
+Jan,External Failure,25000,Warranty claims
+Feb,Prevention,14000,Preventive maintenance
+Feb,Appraisal,9000,Product audits
+Feb,Internal Failure,12000,Machine rework
+Feb,External Failure,18000,Returns from customer
+Mar,Prevention,16000,Staff quality workshop
+Mar,Appraisal,9500,Final inspections
+Mar,Internal Failure,9000,Scrap material
+Mar,External Failure,14000,Customer complaints
+Apr,Prevention,2000,test4
+Apr,Prevention,9000,testa
+Apr,Appraisal,7000,testad
+Apr,Internal Failure,6500,testadd
+Apr,External Failure,5000,testadd1
